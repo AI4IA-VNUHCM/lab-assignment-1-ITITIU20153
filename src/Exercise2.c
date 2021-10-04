@@ -37,6 +37,6 @@ int main(int argc, char *argv[]) {
 		j++; 
 	}
 	printf("%d\n",max);
-	printf("%d\n",min);
+	printf("%d",min);
 	return 0;
 }
