@@ -16,6 +16,7 @@ int main(int argc, char *argv[]) {
 	//testing variable, applying it to your algorithm for auto-evaluating
 	int testcase = atoi(argv[1]);
 	//Your codes here
-	
+	int number;
+	while (testcase1=0)
 	return 0;
 }
