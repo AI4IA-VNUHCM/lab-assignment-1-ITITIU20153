@@ -26,7 +26,7 @@ int main(int argc, char *argv[]) {
 			}	
 		}
 		if(count == 0) {
-			printf("%d\t", i);
+			printf("%d ", i);
 		}
 	}
 
